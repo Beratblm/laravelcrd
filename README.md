@@ -1,2 +1,1 @@
-# laravelcrd
-laravel crud operation
+# Laravel Basic crud operation
